@@ -1,6 +1,6 @@
 ![Untitled design](https://github.com/wasay-698/wasay-698/assets/145287518/07a21419-03d4-406e-a9ee-31b27ca41f65)
 <h1 align="center">Hi 👋, I'm Wasay</h1>
-<h3 align="center">An Student of Artificial Intelligence</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasay-698&label=Profile%20views&color=0e75b6&style=flat" alt="wasay-698" /> </p>
 

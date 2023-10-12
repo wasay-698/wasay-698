@@ -1,5 +1,6 @@
 
-![Uploading Purple Bright Simple Motivational Quote LinkedIn Article Cover Image  (4).png…]()
+
+![Purple Bright Simple Motivational Quote LinkedIn Article Cover Image  (4)](https://github.com/wasay-698/wasay-698/assets/145287518/d99e42b8-8793-4cfa-9520-c35a3896406e)
 
 <h1 align="center">Hi 👋, I'm Wasay</h1>
 <h3 align="center">Computer Science Student</h3>

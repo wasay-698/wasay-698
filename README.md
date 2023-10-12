@@ -1,5 +1,6 @@
 
-<img width="605" alt="Github-bg" src="https://github.com/wasay-698/wasay-698/assets/145287518/41f88a8e-c76c-40c1-8915-c208da49ba7e">
+![Uploading Purple Bright Simple Motivational Quote LinkedIn Article Cover Image  (4).png…]()
+
 <h1 align="center">Hi 👋, I'm Wasay</h1>
 <h3 align="center">Computer Science Student</h3>
 

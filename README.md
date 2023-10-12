@@ -9,6 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasay-698&label=Profile%20views&color=0e75b6&style=flat" alt="wasay-698" /> </p>
 
+- 👨🏻‍🎓 Final Year Undergraduate Software Engineering Student (SMIU Karachi)
+- 
 - 🔭 I’m currently working on **python**
 
 - 🌱 I’m currently learning **Data Science**

@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **wasaytariq59@gmail.com**
-- 
+
 - ⚡ Fun fact **“data is the new oil,"~Clive Humby**
 
 <h3 align="left">Connect with me:</h3>

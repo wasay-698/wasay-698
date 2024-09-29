@@ -78,6 +78,7 @@ Let’s connect and create something amazing together!
   <img src="https://img.shields.io/badge/Jupyter-F05032?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-0052CC?style=for-the-badge&logo=math&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=git&logoColor=white" />
+      
 <br>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasay-698&theme=light&layout=compact&langs_count=20&hide_title=true"/>

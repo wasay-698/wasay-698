@@ -82,8 +82,6 @@ Let’s connect and create something amazing together!
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasay-698&theme=light&layout=compact&langs_count=20&hide_title=true"/>
 </div>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasay-698&show_icons=true&locale=en" alt="wasay-698" /></p>

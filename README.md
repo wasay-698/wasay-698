@@ -8,7 +8,7 @@
 <!-- Badge -->
 <div align="center" >
       
-[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=#&logoColor=ffffff)](https://www.appbrewery.co/)
+[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=pandas&logoColor=ffffff)](https://www.appbrewery.co/)
       
 </div>
 

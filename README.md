@@ -7,16 +7,17 @@
 <!-- Badge -->
 <div align="center" >
 
-[![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
+[![Data Science Enthusiast](https://img.shields.io/badge/Certified_Flutter_Developer-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasay-698&label=Profile%20views&color=0e75b6&style=flat" alt="wasay-698" /> </p>
+
 <!-- Badges -->
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahzadUmarBaig?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahzadUmarBaig?style=social">
+      <img src="https://komarev.com/ghpvc/?username=wasay-698&label=Profile%20views&color=0e75b6&style=flat" alt="wasay-698" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/wasay-698?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/wasay-698?style=social">
 </div>
 <hr/>
 

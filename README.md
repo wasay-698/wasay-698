@@ -7,14 +7,13 @@
 <!-- Badge -->
 <div align="center" >
 
-[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
+[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=data&logoColor=ffffff)](https://www.appbrewery.co/)
 
 </div>
 
 
 <!-- Badges -->
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
       <img src="https://komarev.com/ghpvc/?username=wasay-698&label=Profile%20views&color=0e75b6&style=flat" alt="wasay-698" />
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/wasay-698?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/wasay-698?style=social">

@@ -22,10 +22,13 @@
 <!-- Who I am Section -->
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
+👋 Welcome to My Github Profile!
 I am passionate about uncovering insights from data and continuously learning new techniques to tackle real-world problems. With experience in Python, data analysis, and statistical methods, I am always on the lookout for challenging projects where I can apply my skills to make data-driven decisions.
 
-Currently, I’m delving deep into the world of machine learning, data visualization, and improving my statistical foundation. I enjoy experimenting with data, building models, and helping others in the community learn these valuable skills.
+🚀 Passion for Data Science
+Data is the new oil, and I’m passionate about refining it into actionable insights. I thrive on the challenge of solving complex problems using data, Python, and statistical analysis. My goal is to stay ahead of the curve in this rapidly evolving field, continuously learning and applying new techniques to create meaningful impact.
 
+🤝 Collaboration & Networking
 In addition to my work in data science, I also enjoy sharing knowledge with others, especially students who are just beginning their journey. I believe in building a strong community of data enthusiasts and am always eager to inspire and collaborate with fellow learners and professionals.
 
 I’m excited to share my data-driven projects and would love to collaborate on any project where I can bring value through my data skills. Let’s connect and create something amazing together!

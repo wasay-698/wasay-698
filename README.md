@@ -1,5 +1,4 @@
 ![1727645443313657047103411905004](https://github.com/user-attachments/assets/d718340e-0e62-4b79-a1b9-71b5f0ceed47)
-
 <!-- Intro -->
 <h1 align="center">Hey there, I'm Wasay Tariq 👋🏻💻</h1>
 <!-- Tagline -->

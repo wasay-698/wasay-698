@@ -39,6 +39,28 @@ Let’s connect and create something amazing together!
 - ⚡ Fun fact “data is the new oil,"~Clive Humby
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
+
+<div align="center">
+      <a href="https://https://github.com/wasay-698/">
+        <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
+      </a>
+      <a href="https://https://www.linkedin.com/in/abdul-wasay-994513326//">
+        <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
+      </a>
+      <a href="https://web.facebook.com/wasay.khan.1466126//?_rdc=1&_rdr">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
+      </a>
+      <a href="mailto:wasaytariq59@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
+      </a>
+      <a href="https://stackoverflow.com/users/22772462/wasay-khan">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+      </a>
+      <a href="https://medium.com/@wasaytariq59">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+      </a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/wasay tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wasay tariq" height="30" width="40" /></a>

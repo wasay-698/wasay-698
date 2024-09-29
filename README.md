@@ -33,7 +33,6 @@ In addition to my work in data science, I also enjoy sharing knowledge with othe
 
 Let’s connect and create something amazing together!
 
-- 👨🏻‍🎓 Final Year Undergraduate Computer Science Student (SMIU Karachi)
 - 💻 I’m currently working on python
 - 🌱 Continuously learning Data Science
 - 📫 How to reach me wasaytariq59@gmail.com

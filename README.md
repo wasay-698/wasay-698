@@ -41,10 +41,10 @@ Let’s connect and create something amazing together!
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
 <div align="center">
-      <a href="https://https://github.com/wasay-698/">
+      <a href="https://github.com/wasay-698">
         <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
       </a>
-      <a href="https://https://www.linkedin.com/in/abdul-wasay-994513326//">
+      <a href="https://www.linkedin.com/in/abdul-wasay-994513326/">
         <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
       </a>
       <a href="https://www.kaggle.com/wasaytariq">

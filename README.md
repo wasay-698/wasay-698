@@ -1,21 +1,24 @@
 
+<!-- Intro -->
+<h1 align="center">Hey there, I'm Wasay Tariq 👋🏻💻</h1>
+<!-- Tagline -->
+<h3 align="center">🚀 Data Science Enthusiast from Karachi, Pakistan</h3>
 
-<h1 align="center">Hi 👋, I'm Wasay</h1>
-<h3 align="center" color="blue">A Passionate and a Enthusiastic student of data science</h3>
+<!-- Badge -->
+<div align="center" >
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+[![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasay-698&label=Profile%20views&color=0e75b6&style=flat" alt="wasay-698" /> </p>
-
-- 👨🏻‍🎓 Final Year Undergraduate Computer Science Student (SMIU Karachi)
-  
-- 💻 I’m currently working on **python**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 📫 How to reach me **wasaytariq59@gmail.com**
-
-- ⚡ Fun fact **“data is the new oil,"~Clive Humby**
+<!-- Badges -->
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahzadUmarBaig?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahzadUmarBaig?style=social">
+</div>
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

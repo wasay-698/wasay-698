@@ -7,7 +7,7 @@
 <!-- Badge -->
 <div align="center" >
 
-[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=https://github.com/user-attachments/assets/240423b1-bb60-48cd-980c-31daed4d2561&logoColor=ffffff)](https://www.appbrewery.co/)
+[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=ai&logoColor=ffffff)](https://www.appbrewery.co/)
 
 
 [![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=python&logoColor=ffffff)](https://www.appbrewery.co/)

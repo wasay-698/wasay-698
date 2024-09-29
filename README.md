@@ -31,17 +31,13 @@ Data is the new oil, and I’m passionate about refining it into actionable insi
 🤝 Collaboration & Networking
 In addition to my work in data science, I also enjoy sharing knowledge with others, especially students who are just beginning their journey. I believe in building a strong community of data enthusiasts and am always eager to inspire and collaborate with fellow learners and professionals.
 
-I’m excited to share my data-driven projects and would love to collaborate on any project where I can bring value through my data skills. Let’s connect and create something amazing together!
+Let’s connect and create something amazing together!
 
-👨🏻‍🎓 Final Year Undergraduate Computer Science Student (SMIU Karachi)
-
-💻 I’m currently working on python
-
-🌱 Continuously learning Data Science
-
-📫 How to reach me wasaytariq59@gmail.com
-
-⚡ Fun fact “data is the new oil,"~Clive Humby
+- 👨🏻‍🎓 Final Year Undergraduate Computer Science Student (SMIU Karachi)
+- 💻 I’m currently working on python
+- 🌱 Continuously learning Data Science
+- 📫 How to reach me wasaytariq59@gmail.com
+- ⚡ Fun fact “data is the new oil,"~Clive Humby
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 <h3 align="left">Connect with me:</h3>

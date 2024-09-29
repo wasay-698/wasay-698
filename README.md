@@ -47,8 +47,8 @@ Let’s connect and create something amazing together!
       <a href="https://https://www.linkedin.com/in/abdul-wasay-994513326//">
         <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
       </a>
-      <a href="https://web.facebook.com/wasay.khan.1466126//?_rdc=1&_rdr">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
+      <a href="https://www.kaggle.com/wasaytariq">
+        <img src="https://img.shields.io/badge/Kaggle-1877F2?style=for-the-badge&logo=Kaggle&logoColor=ffffff">
       </a>
       <a href="mailto:wasaytariq59@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">

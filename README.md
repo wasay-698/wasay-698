@@ -6,12 +6,6 @@
 
 <!-- Badge -->
 <div align="center" >
-
-[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=ai&logoColor=ffffff)](https://www.appbrewery.co/)
-
-[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=sql&logoColor=ffffff)](https://www.appbrewery.co/)
-
-
 [![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=python&logoColor=ffffff)](https://www.appbrewery.co/)
 </div>
 
@@ -23,7 +17,28 @@
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/wasay-698?style=social">
 </div>
 <hr/>
+<!-- Who I am Section -->
+<h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
+I am passionate about uncovering insights from data and continuously learning new techniques to tackle real-world problems. With experience in Python, data analysis, and statistical methods, I am always on the lookout for challenging projects where I can apply my skills to make data-driven decisions.
+
+Currently, I’m delving deep into the world of machine learning, data visualization, and improving my statistical foundation. I enjoy experimenting with data, building models, and helping others in the community learn these valuable skills.
+
+In addition to my work in data science, I also enjoy sharing knowledge with others, especially students who are just beginning their journey. I believe in building a strong community of data enthusiasts and am always eager to inspire and collaborate with fellow learners and professionals.
+
+I’m excited to share my data-driven projects and would love to collaborate on any project where I can bring value through my data skills. Let’s connect and create something amazing together!
+
+👨🏻‍🎓 Final Year Undergraduate Computer Science Student (SMIU Karachi)
+
+💻 I’m currently working on python
+
+🌱 Continuously learning Data Science
+
+📫 How to reach me wasaytariq59@gmail.com
+
+⚡ Fun fact “data is the new oil,"~Clive Humby
+
+<h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/wasay tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wasay tariq" height="30" width="40" /></a>

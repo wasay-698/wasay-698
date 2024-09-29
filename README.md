@@ -9,7 +9,7 @@
 
 [![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=ai&logoColor=ffffff)](https://www.appbrewery.co/)
 
-[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=artificial_intelligence&logoColor=ffffff)](https://www.appbrewery.co/)
+[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=database&logoColor=ffffff)](https://www.appbrewery.co/)
 
 [![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=python&logoColor=ffffff)](https://www.appbrewery.co/)
 </div>

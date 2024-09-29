@@ -7,7 +7,7 @@
 <!-- Badge -->
 <div align="center" >
 
-[![Data Science Enthusiast](https://img.shields.io/badge/-00B8D4?logo=data&logoColor=ffffff)](https://www.appbrewery.co/)
+[![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
 
 </div>
 

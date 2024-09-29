@@ -76,7 +76,7 @@ Let’s connect and create something amazing together!
   <img src="https://img.shields.io/badge/Pandas-0175C2?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-ffca28?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F05032?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-0052CC?style=for-the-badge&logo=graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-0052CC?style=for-the-badge&logo=math&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=git&logoColor=white" />
 <br>
 

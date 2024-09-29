@@ -6,7 +6,9 @@
 
 <!-- Badge -->
 <div align="center" >
+      
 [![Certified Flutter Developer](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=python&logoColor=ffffff)](https://www.appbrewery.co/)
+      
 </div>
 
 

@@ -49,6 +49,8 @@
     their journey. I believe in building a strong community of data enthusiasts and am always eager to inspire and collaborate with 
     fellow learners and professionals.
   </p>
+  <img align="right" alt="Coding" width="400" height="300"src="![Pokimon-ka-bhai](https://github.com/user-attachments/assets/f47470de-5b3d-4071-8a2f-4639a5e38aec)">
+
 <img align="right" alt="Coding" width="400" height="300" src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca">
   <p>Let’s connect and create something amazing together!</p>
 

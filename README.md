@@ -46,6 +46,9 @@ Let’s connect and create something amazing together!
 
 ![17276456567546179005293129646808](https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca)
 
+<img src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca" alt="left aligned image" align="left" width="50" height="50">
+
+
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 

@@ -9,7 +9,6 @@
 <!-- Tagline -->
 <h3 align="center">🚀 Data Science Enthusiast from Karachi, Pakistan</h3>
 
-
 <!-- Badge -->
 <div align="center" >
       

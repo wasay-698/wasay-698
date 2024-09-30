@@ -58,7 +58,6 @@
     <li>📫 How to reach me: wasaytariq59@gmail.com</li>
     <li>⚡ Fun fact: “Data is the new oil,"~Clive Humby</li>
   </ul>
-
   <img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca">
 </div>
 <br>

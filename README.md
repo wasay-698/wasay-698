@@ -44,7 +44,7 @@ Let’s connect and create something amazing together!
 - 📫 How to reach me wasaytariq59@gmail.com
 - ⚡ Fun fact “data is the new oil,"~Clive Humby
 
-![17276456567546179005293129646808](https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca)
+
 
 <img src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca" alt="right aligned image" align="left" width="300" height="300">
 

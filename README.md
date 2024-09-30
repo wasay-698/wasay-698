@@ -56,13 +56,15 @@
   <ul>
     <li>💻 I’m currently working on Python</li>
     <li>🌱 Continuously learning Data Science</li>
-    <ul>-pandas
-    -Numoy
-    -TensorFlow
-    -Jupyter
-    -Keras
-    -Apache Spark
-    -Pytorch</ul>
+    <ul  list-style-type: circle>
+    <li>pandas</li>
+    <li>Numpy</li>
+    <li>TensorFlow</li>
+    <li>Jupyter</li>
+    <li>Keras</li>
+    <li>Apache Spark</li>
+    <li>Pytorch</li>
+    </ul>
     <li>📫 How to reach me: wasaytariq59@gmail.com</li>
     <li>⚡ Fun fact: “Data is the new oil,"~Clive Humby</li>
   </ul>

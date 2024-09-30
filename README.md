@@ -45,7 +45,7 @@ Let’s connect and create something amazing together!
 - ⚡ Fun fact “data is the new oil,"~Clive Humby
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca">
+<img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca">
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 

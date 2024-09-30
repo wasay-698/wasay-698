@@ -26,11 +26,11 @@
 </div>
 <hr/>
 <!-- Who I am Section -->
-<h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
+<h1 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h1>
 
 <div>
     
-  <h1>👋 Welcome to My Github Profile!</h1>
+  <h2>👋 Welcome to My Github Profile!</h2>
   <p>
     I am passionate about uncovering insights from data and continuously learning new techniques to tackle real-world problems. 
     With experience in Python, data analysis, and statistical methods, I am always on the lookout for challenging projects where 

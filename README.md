@@ -3,6 +3,7 @@
   <img src="https://github.com/user-attachments/assets/d718340e-0e62-4b79-a1b9-71b5f0ceed47" alt="centered image"width="250px" height="250px">
 </div>
 
+
 <!-- Intro -->
 <h1 align="center">Hey there, I'm Wasay Tariq 👋🏻💻</h1>
 <!-- Tagline -->

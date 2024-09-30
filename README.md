@@ -28,28 +28,40 @@
 <!-- Who I am Section -->
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-👋 Welcome to My Github Profile!
-I am passionate about uncovering insights from data and continuously learning new techniques to tackle real-world problems. With experience in Python, data analysis, and statistical methods, I am always on the lookout for challenging projects where I can apply my skills to make data-driven decisions.
+<div>
+  <h1>👋 Welcome to My Github Profile!</h1>
+  <p>
+    I am passionate about uncovering insights from data and continuously learning new techniques to tackle real-world problems. 
+    With experience in Python, data analysis, and statistical methods, I am always on the lookout for challenging projects where 
+    I can apply my skills to make data-driven decisions.
+  </p>
+  
+  <h2>🚀 Passion for Data Science</h2>
+  <p>
+    Data is the new oil, and I’m passionate about refining it into actionable insights. I thrive on the challenge of solving 
+    complex problems using data, Python, and statistical analysis. My goal is to stay ahead of the curve in this rapidly evolving 
+    field, continuously learning and applying new techniques to create meaningful impact.
+  </p>
 
-🚀 Passion for Data Science
-Data is the new oil, and I’m passionate about refining it into actionable insights. I thrive on the challenge of solving complex problems using data, Python, and statistical analysis. My goal is to stay ahead of the curve in this rapidly evolving field, continuously learning and applying new techniques to create meaningful impact.
+  <h2>🤝 Collaboration & Networking</h2>
+  <p>
+    In addition to my work in data science, I also enjoy sharing knowledge with others, especially students who are just beginning 
+    their journey. I believe in building a strong community of data enthusiasts and am always eager to inspire and collaborate with 
+    fellow learners and professionals.
+  </p>
 
-🤝 Collaboration & Networking
-In addition to my work in data science, I also enjoy sharing knowledge with others, especially students who are just beginning their journey. I believe in building a strong community of data enthusiasts and am always eager to inspire and collaborate with fellow learners and professionals.
+  <p>Let’s connect and create something amazing together!</p>
 
-Let’s connect and create something amazing together!
+  <ul>
+    <li>💻 I’m currently working on Python</li>
+    <li>🌱 Continuously learning Data Science</li>
+    <li>📫 How to reach me: wasaytariq59@gmail.com</li>
+    <li>⚡ Fun fact: “Data is the new oil,"~Clive Humby</li>
+  </ul>
 
-- 💻 I’m currently working on python
-- 🌱 Continuously learning Data Science
-- 📫 How to reach me wasaytariq59@gmail.com
-- ⚡ Fun fact “data is the new oil,"~Clive Humby
-- - 💻 I’m currently working on python
-- 🌱 Continuously learning Data Science
-- 📫 How to reach me wasaytariq59@gmail.com
-- ⚡ Fun fact “data is the new oil,"~Clive Humby
-- <img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca">
+  <img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca">
+</div>
 
----
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 

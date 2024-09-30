@@ -29,6 +29,7 @@
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
 <div>
+    <img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca">
   <h1>👋 Welcome to My Github Profile!</h1>
   <p>
     I am passionate about uncovering insights from data and continuously learning new techniques to tackle real-world problems. 
@@ -58,7 +59,7 @@
     <li>📫 How to reach me: wasaytariq59@gmail.com</li>
     <li>⚡ Fun fact: “Data is the new oil,"~Clive Humby</li>
   </ul>
-  <img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/d131e12d-9440-498e-809b-32a7aa70cdca">
+
 </div>
 <br>
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>

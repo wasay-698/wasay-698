@@ -61,8 +61,6 @@
     <li>Numpy</li>
     <li>TensorFlow</li>
     <li>Jupyter</li>
-    <li>Keras</li>
-    <li>Apache Spark</li>
     <li>Pytorch</li>
     </ul>
     <li>📫 How to reach me: wasaytariq59@gmail.com</li>

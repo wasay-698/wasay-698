@@ -13,7 +13,7 @@
 <!-- Badge -->
 <div align="center" >
       
-[![Data Science Ethusiast](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=pandas&logoColor=ffffff)](https://www.appbrewery.co/)
+[![Data Science Ethusiast](https://img.shields.io/badge/Data_Science_Enthusiast-00B8D4?logo=rocket&logoColor=ffffff)](https://www.appbrewery.co/)
       
 </div>
 

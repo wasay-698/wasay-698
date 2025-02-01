@@ -7,7 +7,7 @@
 <!-- Intro -->
 <h1 align="center">Hey there, I'm Wasay Tariq 👋🏻💻</h1>
 <!-- Tagline -->
-<h3 align="center">🚀 Data Enthusiast from Karachi, Pakistan</h3>
+<h3 align="center">🚀 Computer Science Graduate from Karachi, Pakistan</h3>
 
 
 <!-- Badge -->

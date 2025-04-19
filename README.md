@@ -61,9 +61,7 @@
     <ul  list-style-type: circle>
     <li>pandas</li>
     <li>Numpy</li>
-    <li>TensorFlow</li>
     <li>Jupyter</li>
-    <li>Pytorch</li>
     </ul>
     <li>📫 How to reach me: wasaytariq59@gmail.com</li>
     <li>⚡ Fun fact: “Data is the new oil,"~Clive Humby</li>
